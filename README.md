@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @pawankumar4907
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @pawankumar Bhutekar
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning DSA
+- 💞️ I’m looking to collaborate on any project to practice DSA
+- 📫 You can reachout to me on Pawankumarb1006@gamil.com
 
 <!---
 pawankumar4907/pawankumar4907 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
